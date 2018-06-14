@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 95edbbc4650eb8f4abce1953cd589085
+timeCreated: 1524789682
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Deck: {instanceID: 0}
+  - prefabCarta: {instanceID: 0}
+  - sonidoFondo: {fileID: 8300000, guid: d6e020d2a034ecb4daa6b62163334206, type: 3}
+  - TxtSoles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
